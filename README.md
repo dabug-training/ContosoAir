@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/dabugtraining/azureTraining/_apis/build/status/dabug-training.ContosoAir?branchName=master)](https://dev.azure.com/dabugtraining/azureTraining/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
